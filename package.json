@@ -1,0 +1,24 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "explore.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twilio": "^3.42.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniaJohansen/Twilio-SMS-Service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniaJohansen/Twilio-SMS-Service/issues"
+  },
+  "homepage": "https://github.com/AniaJohansen/Twilio-SMS-Service#readme"
+}

@@ -19,7 +19,7 @@ client.messages.create({
 
 console.log('Gathering your message log');
 
-
+// TODO: for å kjøre dette, skriv node explore.js i terminalen
 
 // client.messages.list()
 //     .then(messages => 
